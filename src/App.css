@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+}
+.App {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.header {
+  display: flex;
+  flex-direction: "row";
+  justify-content: space-between;
+  width: 80%;
+}
+
+.input {
+  width: 75%;
+}
+
+.button {
+  margin-left: 1rem;
+}
+
+.list {
+  width: 80%;
+  margin-top: 1rem !important;
+}
